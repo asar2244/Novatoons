@@ -1,0 +1,8 @@
+{
+  "name": "Nova Toons",
+  "description": "A calm editorial manga and manhwa discovery and reading platform linked live to Atsumaru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
